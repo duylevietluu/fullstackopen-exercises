@@ -19,7 +19,7 @@ const typeDefs = require('./schema')
 const resolvers = require('./resolvers')
 
 const MONGODB_URI =
-  'insertMongoDBhere'
+  ''
 
 console.log('connecting to', MONGODB_URI)
 

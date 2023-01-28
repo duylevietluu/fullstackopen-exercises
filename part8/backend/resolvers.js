@@ -6,7 +6,7 @@ const Author = require('./models/author')
 const Book = require('./models/book')
 const User = require('./models/user')
 
-const JWT_SECRET = 'duyislearningfullstack'
+const JWT_SECRET = 'bocchitherockisgreat'
 const PASSWORD_DUY = 'duyislearningfullstack'
 
 const resolvers = {
